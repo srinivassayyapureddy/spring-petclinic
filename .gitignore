@@ -1,4 +1,4 @@
-target/*
+
 build/*
 .gradle/*
 .settings/*
@@ -8,7 +8,7 @@ build/*
 .attach_pid*
 .idea
 *.iml
-/target
+
 .sts4-cache/
 .vscode
 _site/
